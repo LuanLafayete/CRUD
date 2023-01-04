@@ -22,6 +22,7 @@
 - C#
 - SQL Server
 - Razor
+- MVC
 
 ## ☎ Contato
 - LinkedIn: 
