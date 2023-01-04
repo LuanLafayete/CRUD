@@ -1,5 +1,14 @@
 # CRUD em ASP.NET MVC
 
+## HOME PAGE
+![preview](https://github.com/LuanLafayete/CRUD/blob/main/Preview/Index.PNG)
+
+## CONTATO
+![preview](https://github.com/LuanLafayete/CRUD/blob/main/Preview/Contato.PNG)
+
+## PRIVACIDADE
+![preview](https://github.com/LuanLafayete/CRUD/blob/main/Preview/Privacy.PNG)
+
 >Bootcamp Pottencial da Digital Innovation One
 
 [🔗 Clique aqui para acessar](https://luanlafayete.github.io/CRUD/)
