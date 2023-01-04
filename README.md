@@ -1,8 +1,5 @@
 # CRUD em ASP.NET MVC
 
-![preview](./.github/preview.png)
-
-
 >Bootcamp Pottencial da Digital Innovation One
 
 [🔗 Clique aqui para acessar](https://luanlafayete.github.io/CRUD/)
