@@ -11,8 +11,6 @@
 
 >Bootcamp Pottencial da Digital Innovation One
 
-[🔗 Clique aqui para acessar](https://luanlafayete.github.io/CRUD/)
-
 ## 💻 Tecnologias 
 - HTML
 - CSS
